@@ -1,0 +1,9 @@
+{
+  "name": "octopus-energy-intelligence",
+  "version": "0.2.0",
+  "description": "Octopus Energy consumer intelligence: live Agile half-hourly tariff prices, golden time windows, tariff comparison, and optional smart meter consumption analytics. Powered by the Octopus Energy public API.",
+  "author": {
+    "name": "nurry"
+  },
+  "keywords": ["octopus", "energy", "agile", "tariff", "electricity", "smart-meter", "ev-charging"]
+}
